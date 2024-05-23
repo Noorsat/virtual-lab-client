@@ -1,0 +1,48 @@
+.laboratory{
+    background: url('../../assets/laboratory.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 923px;
+}
+.laboratory__title{
+    padding-top: 55px;
+    font-size: 24px;
+    color: #2E2F35;
+    font-weight: 700;
+    margin-bottom: 30px;
+    text-align: center;
+    line-height: 76px;
+    margin-bottom: 29px;
+}
+.laboratory__item{
+    background:#fff;
+    border-radius: 30px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-bottom: 30px;
+    padding: 16px;
+}
+.laboratory__items{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.laboratory__item:nth-child(1), .laboratory__item:nth-child(3){
+    margin-right: 198px;
+}
+.laboratory__item-img{
+    margin-bottom: 16px;
+}
+.laboratory__item-title{
+    margin-left: 24px;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 30px;
+}
+.laboratory__item-link{
+    margin-left: 24px;
+    color : #5680E9;
+    font-size: 14px;
+    font-weight: 800;
+    cursor: pointer;
+}

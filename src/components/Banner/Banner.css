@@ -1,0 +1,16 @@
+.banner{
+    background: url('../../assets/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 744px;
+}
+
+.banner__title{
+    font-size: 54px;
+    font-weight: 700;
+    color: #fff;
+    padding-top: 128px;
+    line-height: 96px;
+    max-width: 400px;
+}

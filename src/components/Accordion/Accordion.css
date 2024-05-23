@@ -1,0 +1,13 @@
+.accordio{
+    padding-top: 72px;
+}
+
+.accordion__title{
+    font-weight: 600;
+    font-size: 24px;
+    margin-bottom: 72px;
+}
+
+.accordion__wrapper{
+    margin-bottom: 180px;
+}

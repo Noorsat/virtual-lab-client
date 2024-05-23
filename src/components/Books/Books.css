@@ -1,0 +1,37 @@
+.books{
+    background: url('../../assets/books-bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 1116px;
+    padding-top: 52px;
+}
+.books__title{
+    color: #2E2F35;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 76px;
+    text-align: center;
+    margin-bottom: 82px;
+}
+.books__items{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.books__item{
+    flex: 1 0 30%;
+    text-align: center;
+    margin-bottom: 92px;
+}
+.books__item-title{
+    font-size: 14px;
+    font-weight: 800;
+    line-height: 30px;
+}
+.books__item-download a{
+    color: #5680E9;
+    font-size: 14px;
+    font-weight: 80;
+    line-height: 30px;
+}

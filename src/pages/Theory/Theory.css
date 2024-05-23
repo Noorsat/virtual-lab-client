@@ -1,0 +1,18 @@
+.theory{
+    background: url('../../assets/theory-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+}
+.theory__title{
+    font-weight: 600;
+    font-size: 22px; 
+    background: #fff;
+    padding: 30px;
+    max-width: 600px;
+    position: absolute;
+    right:100px;
+    top:150px;
+    border-radius: 30px;
+}
